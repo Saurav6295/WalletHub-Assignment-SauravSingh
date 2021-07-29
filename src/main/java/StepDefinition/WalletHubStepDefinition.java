@@ -84,7 +84,7 @@ public class WalletHubStepDefinition
 	@Then("^user writes status as Hello World$")
 	public void User_writes_status_as_Hello_World() 
 	{
-		driver.findElement(By.xpath("//div[@class='_1mf _1mj']")).sendKeys("0");
+		driver.findElement(By.xpath("//div[@class='_1mf _1mj']")).sendKeys("Hello World");
 	}
 	
 	@Then("^user clicks on post button$")
