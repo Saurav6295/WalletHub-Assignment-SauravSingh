@@ -11,4 +11,4 @@ Then user writes status as Hello World
 Then user clicks on post button
 Examples:
 |username  | password  |
-|saurav6295@yahoo.com|Mom246dad |
+|s***********|********* |
